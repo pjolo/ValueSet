@@ -12,6 +12,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^designation[=].value = "Somministrazione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^designation[=].value = "Administraziun"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0005 "Application"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0005 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0005 ^designation[=].value = "Applikation"
@@ -21,6 +22,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0005 ^designation[=].value = "Applicazione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0005 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0005 ^designation[=].value = "Applicaziun"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0006 "Bathing"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0006 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0006 ^designation[=].value = "Baden"
@@ -30,6 +32,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0006 ^designation[=].value = "Bagnare"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0006 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0006 ^designation[=].value = "Bogn"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0007 "Chewing"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0007 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0007 ^designation[=].value = "Kauen"
@@ -39,6 +42,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0007 ^designation[=].value = "Masticare"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0007 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0007 ^designation[=].value = "Tschavera"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0008 "Gargling"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0008 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0008 ^designation[=].value = "Gurgeln"
@@ -48,6 +52,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0008 ^designation[=].value = "Gargarizzare"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0008 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0008 ^designation[=].value = "Sgarguglias"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0009 "Infusion"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0009 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0009 ^designation[=].value = "Infusion"
@@ -57,6 +62,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0009 ^designation[=].value = "Infusione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0009 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0009 ^designation[=].value = "Infusiun"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0010 "Inhalation"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0010 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0010 ^designation[=].value = "Inhalation"
@@ -66,6 +72,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0010 ^designation[=].value = "Inalazione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0010 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0010 ^designation[=].value = "Inhalaziun"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0011 "Injection"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0011 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0011 ^designation[=].value = "Injektion"
@@ -75,6 +82,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0011 ^designation[=].value = "Iniezione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0011 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0011 ^designation[=].value = "Injecziun"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0012 "Insertion"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0012 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0012 ^designation[=].value = "Insertion"
@@ -84,6 +92,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0012 ^designation[=].value = "Inserzione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0012 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0012 ^designation[=].value = "Inserziun"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0013 "Instillation"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0013 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0013 ^designation[=].value = "Instillation"
@@ -93,6 +102,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0013 ^designation[=].value = "Instillazione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0013 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0013 ^designation[=].value = "Installaziun"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0014 "Orodispersion"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0014 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0014 ^designation[=].value = "Orodispersion"
@@ -102,6 +112,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0014 ^designation[=].value = "Orodispersione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0014 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0014 ^designation[=].value = "Dispersiun d'odi"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0015 "Rinsing/washing"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0015 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0015 ^designation[=].value = "Spülen/Waschen"
@@ -111,6 +122,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0015 ^designation[=].value = "Sciacquare/Lavare"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0015 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0015 ^designation[=].value = "Derschentar/Lavar"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0017 "Spraying"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0017 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0017 ^designation[=].value = "Sprühen"
@@ -120,6 +132,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0017 ^designation[=].value = "Spray"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0017 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0017 ^designation[=].value = "Squitta"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0018 "Sucking"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0018 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0018 ^designation[=].value = "Lutschen"
@@ -129,6 +142,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0018 ^designation[=].value = "Succhiare"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0018 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0018 ^designation[=].value = "Luschezza"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0019 "Swallowing"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0019 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0019 ^designation[=].value = "Schlucken"
@@ -138,6 +152,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0019 ^designation[=].value = "Per deglutizione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0019 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0019 ^designation[=].value = "Tragutter"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0020 "Not specified"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0020 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0020 ^designation[=].value = "Keine Angaben"
@@ -147,6 +162,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0020 ^designation[=].value = "Non specificato"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0020 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0020 ^designation[=].value = "Naginas indicaziuns"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0111 "Burning"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0111 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0111 ^designation[=].value = "Brennen"
@@ -156,6 +172,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0111 ^designation[=].value = "Bruciare"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0111 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0111 ^designation[=].value = "Arder"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0112 "Dialysis"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0112 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0112 ^designation[=].value = "Dialyse"
@@ -165,6 +182,7 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0112 ^designation[=].value = "Dialisi"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0112 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0112 ^designation[=].value = "Dialisa"
+
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0113 "Implantation"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0113 ^designation[0].language = #de-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0113 ^designation[=].value = "Implantation"
