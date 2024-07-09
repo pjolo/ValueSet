@@ -1,3 +1,5 @@
+Alias: $sct =                                   http://snomed.info/sct
+
 Instance: ch-vacd-immunization-allergyintolerances-vs
 InstanceOf: $shareablevalueset
 Usage: #definition
