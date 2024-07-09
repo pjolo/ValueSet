@@ -1,4 +1,5 @@
 Alias: $sct =                                   http://snomed.info/sct
+Alias: $shareablevalueset =                     http://hl7.org/fhir/StructureDefinition/shareablevalueset
 
 Instance: ch-vacd-immunization-allergyintolerances-vs
 InstanceOf: $shareablevalueset
