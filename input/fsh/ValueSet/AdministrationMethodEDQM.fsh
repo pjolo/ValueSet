@@ -3,7 +3,7 @@ Id: edqm-administrationmethod
 Title: "EDQM - Administration Method"
 Description: "ValueSet Administration method from EDQM, AME, see https://standardterms.edqm.eu/#"
 * ^experimental = false
-* urn:oid:0.4.0.127.0.16.1.1.2.1#0004 "Administration"
+* urn:oid:0.4.0.127.0.16.1.1.2.1#0004 "Administration "
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^extension[0].url = "http://hl7.org/fhir/StructureDefinition/resource-effectivePeriod"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^extension[=].valuePeriod.start = "2018-04-19T00:00:00+01:00"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^extension[=].valuePeriod.stop = "2020-04-19T00:00:00+01:00"
