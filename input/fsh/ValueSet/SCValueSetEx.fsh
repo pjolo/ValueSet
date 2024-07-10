@@ -36,8 +36,6 @@ Usage: #definition
 * compose.include[=].concept[=].designation[=].value = "nagina allergia enconuschenta"
 * compose.include[=].concept[=].designation[+].language = #en-US
 * compose.include[=].concept[=].designation[=].value = "No known allergy"
-//* compose.include[=].concept[=].designation[=].extension.url = "http://hl7.org/fhir/StructureDefinition/resource-effectivePeriod"
-//* compose.include[=].concept[=].designation[=].extension.valuePeriod.start = "2018-04-19T00:00:00+01:00"
 
 * compose.include[=].concept[+].code = #213020009
 * compose.include[=].concept[=].display = "Allergy to egg protein (finding)"
