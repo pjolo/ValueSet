@@ -12,6 +12,9 @@ Description: "ValueSet Administration method from EDQM, AME, see https://standar
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^designation[=].value = "Somministrazione"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^designation[+].language = #rm-CH
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^designation[=].value = "Administraziun"
+* urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^extension[+].url = "http://hl7.org/fhir/StructureDefinition/resource-effectivePeriod"
+* urn:oid:0.4.0.127.0.16.1.1.2.1#0004 ^extension[=].valuePeriod.start = "2018-04-19T00:00:00+01:00"
+
 
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0005 "Application"
 * urn:oid:0.4.0.127.0.16.1.1.2.1#0005 ^designation[0].language = #de-CH
