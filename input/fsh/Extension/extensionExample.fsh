@@ -1,7 +1,7 @@
 Extension:    ConceptEffectivePeriod
-Id:           at-core-ext-valueset-conceptEffectivePeriod
+Id:           ch-ext-valueset-conceptEffectivePeriod
 Title:        "Concept Effective Period" 
-Description:  "HL7® Austria FHIR® Core Extension for the ..."
+Description:  ""
 Context: 	  ValueSet.compose.include.concept, ValueSet.expansion.contains
 
 * value[x] only Period
